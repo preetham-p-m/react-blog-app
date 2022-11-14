@@ -53,23 +53,22 @@
 .blog-preview a{
   text-decoration: none;
 }
-
 .blog-details h2 {
   font-size: 20px;
   color:#f1356d;
   margin-bottom: 10px;
 }
 .blog-details div {
-  margin: 2Øpx
+  margin: 20px 0px;
 }
-/* .blog-details button {
-  background: ß#f1356d;
+.blog-details button {
+  background: #f1356d;
   color: #fff;
   border: 0;
   padding: 8px;
   border-radius: 8px;
   cursor: pointer;
-} */
+}
 /* create new blog form */
 .create {
   max-width: 400px;
@@ -100,4 +99,12 @@
   padding: 8px;
   border-radius: 8px;
   cursor: pointer;
+}
+.not-found h2{
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 30px;
+}
+#home-link {
+  color: #0e55e2;
 }
