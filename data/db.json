@@ -1,22 +1,34 @@
 {
-    "blogs":[
-        { 
-            "title": "My new Website", 
-            "body": "lorem ipsum...", 
-            "author": "mario", 
-            "id": 1 
-        },
-        { 
-            "title": "Welcome party",
-            "body": "lorem ipsum...",
-            "author": "test user", 
-            "id": 2 
-        },
-        { 
-            "title": "Web development top tips",
-            "body": "lorem ipsum...",
-            "author": "mario",
-            "id": 3 
-        }
-    ]
+  "blogs": [
+    {
+      "title": "Why Storyblocks has the best business license for commercial use stock media",
+      "body": "Imagine your team spending more time making great content and less time dealing with administrative hassles (like budgeting for individual assets and tracking usage permissions for each one). Sounds like a win, right? Our business license has you covered with millions of 100% royalty-free stock assets that you can use worldwide in perpetuity.\n\nAnd sure, some people may actually enjoy blindly guessing thoughtfully estimating all of their stock download costs for the entire year. Others might get a kick out of forecasting every potential distribution channel for their content before a project kicks off. Some may even love those deep, heartfelt conversations with their CFO about “budget predictability.” (AKA: “The Talk.”) To those people, we’re sorry. For the rest of you, our business license provides a simple solution: A subscription for unlimited downloads from our entire library. Leave paying for individual assets and tracking their discrete terms and conditions to your competition. You’ve got content to create!",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Is a Storyblocks business license right for my company?",
+      "body": "You may be wondering what types of companies benefit from having a Storyblocks business license. It’s designed for any organization that uses stock content for commercial purposes. If you work at in an agency, in-house creative team, broadcast channel, production company, school, or university, it’s perfect for you. We also offer business licensing options for internal communications and training teams.",
+      "author": "mario",
+      "id": 2
+    },
+    {
+      "title": "Unlimited distribution worldwide in perpetuity",
+      "body": "The world is more interconnected than ever before, so your content distribution shouldn’t be restricted by borders. With a Storyblocks business license, you can distribute your projects worldwide in perpetuity. Unlimited distribution means any content that your team creates for print, digital, and production using Storyblocks is yours to share anywhere in the world — for as long as you want. Even better: Every individual creative asset you download from our library is yours to keep and use forever. And there’s no need to track how many times you’ve used your assets. No restrictions, no limit on views, no extra fees, and no expiration dates.",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "Maker for Teams",
+      "body": "Storyblocks’ business plan includes Maker for Teams to help your company make more video and get your concepts out to audiences faster. That’s our integrated video creation tool that makes rapid video creation easy for anyone on your team. Maker for Teams democratizes the creative process, so even novices can create high-quality, on-brand videos. We packed in a bunch of business-exclusive features, like collaboration functionality and one-click branding to streamline the entire process. Simply put, Maker empowers your entire team to make more videos faster and easier than ever before.",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "Increased indemnification to protect your business",
+      "body": "We’ve got your back. Your company is covered by $1 million USD in indemnification with a Storyblocks business license. That’s well above the industry standard of $20K USD. Assets are licensed to your business with legal coverage and usage rights for all of your team’s seat holders, not just an individual on your team. And your Storyblocks downloads can be shared across your team, department, or even your entire company depending on the number of seats you purchase. It’s like an insurance policy for your commercial use on every asset in the Storyblocks library.",
+      "author": "mario",
+      "id": 5
+    }
+  ]
 }
